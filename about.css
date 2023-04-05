@@ -1,0 +1,51 @@
+header {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+body {
+  background-color: lightcyan;
+  font-size: 20px;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.642);
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.642);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.about {
+  margin-top: 20px;
+}
+
+ul {
+  color: whitesmoke;
+}
+
+div {
+  border: dotted black;
+  border-width: 5px;
+  border-radius: 50px;
+  position: relative;
+  top: 10px;
+  background-color: #333;
+}
